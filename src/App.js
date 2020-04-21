@@ -7,6 +7,7 @@ class App extends Component {
     todos: [
       { id: 1, content: "buy some milk" },
       { id: 2, content: "play mario kart" },
+      { id: 3, content: "klik tuliasn ini untuk menghapus" },
     ],
   };
 
